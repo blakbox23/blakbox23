@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Peter Mbuthia</h1>
-<h3 align="center">A passionate full-stack development Student from Kenya</h3>
+<h1 align="left">Hi 👋, I'm Peter Mbuthia</h1>
+<h3 align="left">A passionate full-stack development Student from Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/blakbox23" target="blank"><img src="https://img.shields.io/twitter/follow/blakbox23?logo=twitter&style=for-the-badge" alt="@blakbox23" /></a> </p>
 
@@ -25,5 +25,4 @@
 
 <p "margin: 39px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blakbox23&show_icons=true&locale=en" alt="blakbox23" /></p>
 
-<p "margin: 9px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blakbox23&" alt="blakbox23" /></p>
 
