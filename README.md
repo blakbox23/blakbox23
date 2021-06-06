@@ -12,9 +12,9 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/blakbox23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="lawal_zeenat"></a>
-   <a href="https://linkedin.com/in/peter mbuthia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="zeenatlawal"></a>
-  <a href="https://www.instagram.com/budz_o1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="xee_law"  /></a>
+  <a href="https://twitter.com/blakbox23" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Peter-Mbuthia"></a>
+   <a href="https://linkedin.com/in/peter mbuthia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Peter-Mbuthia"></a>
+  <a href="https://www.instagram.com/budz_o1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Peter-Mbuthia"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
