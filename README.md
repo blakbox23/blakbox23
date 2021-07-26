@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **pmbuthia043@gmail.com**
 
-- ⚡ Fun fact **I'm undefeated in FIFA**
+- ⚡ Open to new opportunities!
 
 
 <p align="left">
