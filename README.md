@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working to master full-stack software development concepts.
 
-- 💬 Ask me about **HTML5, CSS3, Sass, Bootstrap, Ruby, Ruby on Rails**
+- 💬 Ask me about **HTML5, CSS3, Sass, Bootstrap, Ruby, Ruby on Rails, JavaScript**
 
 - 📫 How to reach me **pmbuthia043@gmail.com**
 
