@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Peter Mbuthia</h1>
-<h3 align="left">A passionate full-stack development student from Kenya</h3>
+<h3 align="left">A passionate full-stack developer</h3>
 
 
 - 🔭 I’m currently working to master full-stack software development concepts.
 
-- 💬 Ask me about **HTML5, CSS3, Sass, Bootstrap, Ruby, Ruby on Rails, JavaScript, React**
+- 💬 Ask me about **HTML5, CSS3, Sass, Bootstrap, Ruby, Ruby on Rails, JavaScript, React, Angular**
 
 - 📫 How to reach me **pmbuthia043@gmail.com**
 
