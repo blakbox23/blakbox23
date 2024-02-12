@@ -2,9 +2,7 @@
 <h3 align="left">A passionate full-stack developer</h3>
 
 
-- 🔭 I’m currently working to master full-stack software development concepts.
-
-- 💬 Ask me about **HTML5, CSS3, Sass, Bootstrap, Ruby, Ruby on Rails, JavaScript, React, Angular**
+FullStack Developer
 
 - 📫 How to reach me **pmbuthia043@gmail.com**
 
